@@ -5,6 +5,11 @@ Release/
 Win32/
 .vs/
 CMakeFiles/
+.cmake/
+CMakeCache.txt
+Testing/
+Makefile
+
 
 
 
